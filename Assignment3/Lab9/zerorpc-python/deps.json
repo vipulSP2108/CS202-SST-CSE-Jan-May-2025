@@ -1,0 +1,219 @@
+{
+    "__main__": {
+        "bacon": 0,
+        "imports": [
+            "zerorpc",
+            "zerorpc.channel",
+            "zerorpc.channel_base",
+            "zerorpc.cli",
+            "zerorpc.context",
+            "zerorpc.core",
+            "zerorpc.decorators",
+            "zerorpc.events",
+            "zerorpc.exceptions",
+            "zerorpc.gevent_zmq",
+            "zerorpc.heartbeat",
+            "zerorpc.patterns",
+            "zerorpc.socket",
+            "zerorpc.version"
+        ],
+        "name": "__main__",
+        "path": null
+    },
+    "zerorpc": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "zerorpc.cli",
+            "zerorpc.context",
+            "zerorpc.core",
+            "zerorpc.events"
+        ],
+        "imports": [
+            "zerorpc.channel",
+            "zerorpc.context",
+            "zerorpc.core",
+            "zerorpc.decorators",
+            "zerorpc.events",
+            "zerorpc.exceptions",
+            "zerorpc.heartbeat",
+            "zerorpc.socket",
+            "zerorpc.version"
+        ],
+        "name": "zerorpc",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/zerorpc/__init__.py"
+    },
+    "zerorpc.channel": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "zerorpc",
+            "zerorpc.core"
+        ],
+        "imports": [
+            "zerorpc.channel_base",
+            "zerorpc.exceptions"
+        ],
+        "name": "zerorpc.channel",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/zerorpc/channel.py"
+    },
+    "zerorpc.channel_base": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "zerorpc.channel",
+            "zerorpc.events",
+            "zerorpc.heartbeat"
+        ],
+        "name": "zerorpc.channel_base",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/zerorpc/channel_base.py"
+    },
+    "zerorpc.cli": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__"
+        ],
+        "imports": [
+            "zerorpc"
+        ],
+        "name": "zerorpc.cli",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/zerorpc/cli.py"
+    },
+    "zerorpc.context": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "zerorpc",
+            "zerorpc.core",
+            "zerorpc.events",
+            "zerorpc.socket"
+        ],
+        "imports": [
+            "zerorpc",
+            "zerorpc.gevent_zmq"
+        ],
+        "name": "zerorpc.context",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/zerorpc/context.py"
+    },
+    "zerorpc.core": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "zerorpc"
+        ],
+        "imports": [
+            "zerorpc",
+            "zerorpc.channel",
+            "zerorpc.context",
+            "zerorpc.decorators",
+            "zerorpc.exceptions",
+            "zerorpc.gevent_zmq",
+            "zerorpc.heartbeat",
+            "zerorpc.patterns",
+            "zerorpc.socket"
+        ],
+        "name": "zerorpc.core",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/zerorpc/core.py"
+    },
+    "zerorpc.decorators": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "zerorpc",
+            "zerorpc.core"
+        ],
+        "imports": [
+            "zerorpc.patterns"
+        ],
+        "name": "zerorpc.decorators",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/zerorpc/decorators.py"
+    },
+    "zerorpc.events": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "zerorpc",
+            "zerorpc.socket"
+        ],
+        "imports": [
+            "zerorpc",
+            "zerorpc.channel_base",
+            "zerorpc.context",
+            "zerorpc.exceptions",
+            "zerorpc.gevent_zmq"
+        ],
+        "name": "zerorpc.events",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/zerorpc/events.py"
+    },
+    "zerorpc.exceptions": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "zerorpc",
+            "zerorpc.channel",
+            "zerorpc.core",
+            "zerorpc.events",
+            "zerorpc.heartbeat"
+        ],
+        "name": "zerorpc.exceptions",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/zerorpc/exceptions.py"
+    },
+    "zerorpc.gevent_zmq": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "zerorpc.context",
+            "zerorpc.core",
+            "zerorpc.events"
+        ],
+        "name": "zerorpc.gevent_zmq",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/zerorpc/gevent_zmq.py"
+    },
+    "zerorpc.heartbeat": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "zerorpc",
+            "zerorpc.core"
+        ],
+        "imports": [
+            "zerorpc.channel_base",
+            "zerorpc.exceptions"
+        ],
+        "name": "zerorpc.heartbeat",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/zerorpc/heartbeat.py"
+    },
+    "zerorpc.patterns": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "zerorpc.core",
+            "zerorpc.decorators"
+        ],
+        "name": "zerorpc.patterns",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/zerorpc/patterns.py"
+    },
+    "zerorpc.socket": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "zerorpc",
+            "zerorpc.core"
+        ],
+        "imports": [
+            "zerorpc.context",
+            "zerorpc.events"
+        ],
+        "name": "zerorpc.socket",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/zerorpc/socket.py"
+    },
+    "zerorpc.version": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "zerorpc"
+        ],
+        "name": "zerorpc.version",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/zerorpc/version.py"
+    }
+}

@@ -1,0 +1,274 @@
+{
+    "__main__": {
+        "bacon": 0,
+        "imports": [
+            "tests",
+            "tests.test_buffered_channel",
+            "tests.test_channel",
+            "tests.test_client",
+            "tests.test_client_async",
+            "tests.test_client_heartbeat",
+            "tests.test_events",
+            "tests.test_heartbeat",
+            "tests.test_middleware",
+            "tests.test_middleware_before_after_exec",
+            "tests.test_middleware_client",
+            "tests.test_pubpush",
+            "tests.test_reqstream",
+            "tests.test_server",
+            "tests.test_zmq",
+            "tests.testutils",
+            "tests.zmqbug"
+        ],
+        "name": "__main__",
+        "path": null
+    },
+    "pytest": {
+        "bacon": 2,
+        "imported_by": [
+            "tests.test_buffered_channel",
+            "tests.test_client_async",
+            "tests.test_heartbeat",
+            "tests.test_middleware",
+            "tests.test_server",
+            "tests.testutils"
+        ],
+        "name": "pytest",
+        "path": "/home/set-iitgn-vm/.local/lib/python3.10/site-packages/pytest/__init__.py"
+    },
+    "tests": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__"
+        ],
+        "name": "tests",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/tests/__init__.py"
+    },
+    "tests.test_buffered_channel": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__"
+        ],
+        "imports": [
+            "pytest",
+            "tests.testutils",
+            "zerorpc"
+        ],
+        "name": "tests.test_buffered_channel",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/tests/test_buffered_channel.py"
+    },
+    "tests.test_channel": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__"
+        ],
+        "imports": [
+            "tests.testutils",
+            "zerorpc"
+        ],
+        "name": "tests.test_channel",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/tests/test_channel.py"
+    },
+    "tests.test_client": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__"
+        ],
+        "imports": [
+            "tests.testutils",
+            "zerorpc"
+        ],
+        "name": "tests.test_client",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/tests/test_client.py"
+    },
+    "tests.test_client_async": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__"
+        ],
+        "imports": [
+            "pytest",
+            "tests.testutils",
+            "zerorpc"
+        ],
+        "name": "tests.test_client_async",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/tests/test_client_async.py"
+    },
+    "tests.test_client_heartbeat": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__"
+        ],
+        "imports": [
+            "tests.testutils",
+            "zerorpc"
+        ],
+        "name": "tests.test_client_heartbeat",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/tests/test_client_heartbeat.py"
+    },
+    "tests.test_events": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__"
+        ],
+        "imports": [
+            "tests.testutils",
+            "zerorpc"
+        ],
+        "name": "tests.test_events",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/tests/test_events.py"
+    },
+    "tests.test_heartbeat": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__"
+        ],
+        "imports": [
+            "pytest",
+            "tests.testutils",
+            "zerorpc"
+        ],
+        "name": "tests.test_heartbeat",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/tests/test_heartbeat.py"
+    },
+    "tests.test_middleware": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__"
+        ],
+        "imports": [
+            "pytest",
+            "tests.testutils",
+            "zerorpc"
+        ],
+        "name": "tests.test_middleware",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/tests/test_middleware.py"
+    },
+    "tests.test_middleware_before_after_exec": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__"
+        ],
+        "imports": [
+            "tests.testutils",
+            "zerorpc"
+        ],
+        "name": "tests.test_middleware_before_after_exec",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/tests/test_middleware_before_after_exec.py"
+    },
+    "tests.test_middleware_client": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__"
+        ],
+        "imports": [
+            "tests.testutils",
+            "zerorpc"
+        ],
+        "name": "tests.test_middleware_client",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/tests/test_middleware_client.py"
+    },
+    "tests.test_pubpush": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__"
+        ],
+        "imports": [
+            "tests.testutils",
+            "zerorpc"
+        ],
+        "name": "tests.test_pubpush",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/tests/test_pubpush.py"
+    },
+    "tests.test_reqstream": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__"
+        ],
+        "imports": [
+            "tests.testutils",
+            "zerorpc"
+        ],
+        "name": "tests.test_reqstream",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/tests/test_reqstream.py"
+    },
+    "tests.test_server": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__"
+        ],
+        "imports": [
+            "pytest",
+            "tests.testutils",
+            "zerorpc"
+        ],
+        "name": "tests.test_server",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/tests/test_server.py"
+    },
+    "tests.test_zmq": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__"
+        ],
+        "imports": [
+            "tests.testutils",
+            "zerorpc"
+        ],
+        "name": "tests.test_zmq",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/tests/test_zmq.py"
+    },
+    "tests.testutils": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__",
+            "tests.test_buffered_channel",
+            "tests.test_channel",
+            "tests.test_client",
+            "tests.test_client_async",
+            "tests.test_client_heartbeat",
+            "tests.test_events",
+            "tests.test_heartbeat",
+            "tests.test_middleware",
+            "tests.test_middleware_before_after_exec",
+            "tests.test_middleware_client",
+            "tests.test_pubpush",
+            "tests.test_reqstream",
+            "tests.test_server",
+            "tests.test_zmq"
+        ],
+        "imports": [
+            "pytest"
+        ],
+        "name": "tests.testutils",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/tests/testutils.py"
+    },
+    "tests.zmqbug": {
+        "bacon": 1,
+        "imported_by": [
+            "__main__"
+        ],
+        "name": "tests.zmqbug",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/tests/zmqbug.py"
+    },
+    "zerorpc": {
+        "bacon": 2,
+        "imported_by": [
+            "tests.test_buffered_channel",
+            "tests.test_channel",
+            "tests.test_client",
+            "tests.test_client_async",
+            "tests.test_client_heartbeat",
+            "tests.test_events",
+            "tests.test_heartbeat",
+            "tests.test_middleware",
+            "tests.test_middleware_before_after_exec",
+            "tests.test_middleware_client",
+            "tests.test_pubpush",
+            "tests.test_reqstream",
+            "tests.test_server",
+            "tests.test_zmq"
+        ],
+        "name": "zerorpc",
+        "path": "/home/set-iitgn-vm/Desktop/zerorpc-python/zerorpc/__init__.py"
+    }
+}
