@@ -1,0 +1,4 @@
+C:\Users\LABAdmin\Desktop\asd2\WindowsFormsApp1_Clock\obj\Debug\WindowsFormsApp1_Clock.csproj.AssemblyReference.cache
+C:\Users\LABAdmin\Desktop\asd2\WindowsFormsApp1_Clock\obj\Debug\WindowsFormsApp1_Clock.Properties.Resources.resources
+C:\Users\LABAdmin\Desktop\asd2\WindowsFormsApp1_Clock\obj\Debug\WindowsFormsApp1_Clock.csproj.GenerateResource.cache
+C:\Users\LABAdmin\Desktop\asd2\WindowsFormsApp1_Clock\obj\Debug\WindowsFormsApp1_Clock.csproj.CoreCompileInputs.cache
