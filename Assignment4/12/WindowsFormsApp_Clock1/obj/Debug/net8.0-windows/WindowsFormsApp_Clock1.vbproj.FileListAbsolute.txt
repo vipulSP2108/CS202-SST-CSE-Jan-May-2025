@@ -1,0 +1,16 @@
+C:\Users\LABAdmin\Desktop\asd2\WindowsFormsApp_Clock1\bin\Debug\net8.0-windows\WindowsFormsApp_Clock1.exe
+C:\Users\LABAdmin\Desktop\asd2\WindowsFormsApp_Clock1\bin\Debug\net8.0-windows\WindowsFormsApp_Clock1.deps.json
+C:\Users\LABAdmin\Desktop\asd2\WindowsFormsApp_Clock1\bin\Debug\net8.0-windows\WindowsFormsApp_Clock1.runtimeconfig.json
+C:\Users\LABAdmin\Desktop\asd2\WindowsFormsApp_Clock1\bin\Debug\net8.0-windows\WindowsFormsApp_Clock1.dll
+C:\Users\LABAdmin\Desktop\asd2\WindowsFormsApp_Clock1\bin\Debug\net8.0-windows\WindowsFormsApp_Clock1.pdb
+C:\Users\LABAdmin\Desktop\asd2\WindowsFormsApp_Clock1\obj\Debug\net8.0-windows\WindowsFormsApp_Clock1.Form1.resources
+C:\Users\LABAdmin\Desktop\asd2\WindowsFormsApp_Clock1\obj\Debug\net8.0-windows\WindowsFormsApp_Clock1.vbproj.GenerateResource.cache
+C:\Users\LABAdmin\Desktop\asd2\WindowsFormsApp_Clock1\obj\Debug\net8.0-windows\WindowsFormsApp_Clock1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABAdmin\Desktop\asd2\WindowsFormsApp_Clock1\obj\Debug\net8.0-windows\WindowsFormsApp_Clock1.AssemblyInfoInputs.cache
+C:\Users\LABAdmin\Desktop\asd2\WindowsFormsApp_Clock1\obj\Debug\net8.0-windows\WindowsFormsApp_Clock1.AssemblyInfo.vb
+C:\Users\LABAdmin\Desktop\asd2\WindowsFormsApp_Clock1\obj\Debug\net8.0-windows\WindowsFormsApp_Clock1.vbproj.CoreCompileInputs.cache
+C:\Users\LABAdmin\Desktop\asd2\WindowsFormsApp_Clock1\obj\Debug\net8.0-windows\WindowsFormsApp_Clock1.dll
+C:\Users\LABAdmin\Desktop\asd2\WindowsFormsApp_Clock1\obj\Debug\net8.0-windows\refint\WindowsFormsApp_Clock1.dll
+C:\Users\LABAdmin\Desktop\asd2\WindowsFormsApp_Clock1\obj\Debug\net8.0-windows\WindowsFormsApp_Clock1.pdb
+C:\Users\LABAdmin\Desktop\asd2\WindowsFormsApp_Clock1\obj\Debug\net8.0-windows\WindowsFormsApp_Clock1.genruntimeconfig.cache
+C:\Users\LABAdmin\Desktop\asd2\WindowsFormsApp_Clock1\obj\Debug\net8.0-windows\ref\WindowsFormsApp_Clock1.dll

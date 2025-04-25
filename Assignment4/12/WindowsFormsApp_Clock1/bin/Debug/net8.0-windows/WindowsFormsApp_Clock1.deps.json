@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WindowsFormsApp_Clock1/1.0.0": {
+        "runtime": {
+          "WindowsFormsApp_Clock1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WindowsFormsApp_Clock1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
